@@ -33,5 +33,11 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/eclipselink.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/javax.json-api_1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/javax.xml.bind_2.2.12.v201410011542.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/jaxb-core_2.2.11.v201407311112.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Colm/Desktop/3rd/ds_wk8_REST_Lab2/lib/jaxb-xjc_2.2.11.v201407311112.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
